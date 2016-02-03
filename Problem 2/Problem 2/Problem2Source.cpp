@@ -29,4 +29,6 @@ int main() {
 
 	std::cout << "Sum of even numbers: " << evenSum << std::endl;
 
+	return 0;
+
 }
